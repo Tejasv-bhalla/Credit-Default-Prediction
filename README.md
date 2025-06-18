@@ -1,4 +1,4 @@
-# Credit Default Prediction (ML Project)
+# Credit Default Prediction
 
 **Date**: June 2025  
 **Author**: Tejasv Bhalla  
