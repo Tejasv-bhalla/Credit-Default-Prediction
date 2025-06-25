@@ -105,10 +105,10 @@ jupyter notebook main.ipynb
 - Incorporate cost‑sensitive metrics and thresholds
 - Experiment with deep learning (e.g., Tab‑Attention, CNN‑Transformer hybrids)
 
-## Contact
-📧 **Tejasv Bhalla** – tejasv9995@gmail.com  
-Feel free to reach out for collaboration, questions, or feedback!
+## 📬 Contact
+
+Got suggestions or want to collaborate?
+
+- GitHub: [@Tejasv-bhalla](https://github.com/Tejasv-bhalla)
 
 ---
-
-*This README is designed for professional-grade presentation in repositories aimed at industry hiring, collaboration, or deployment readiness.*
